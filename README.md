@@ -1,11 +1,10 @@
 🎥 YouTube Clone (HTML + CSS Only)
+
 A responsive front-end YouTube homepage clone built entirely using HTML and CSS — no JavaScript or backend logic. This project replicates the layout and styling of the YouTube homepage, including the header, sidebar, video grid, and overall user interface.
 
-📸 Demo
-
-Live Preview (Optional)
 
 🛠️ Features
+
 ✅ Responsive design using Flexbox/Grid
 
 ✅ Sticky header with logo, search bar, and profile icons
@@ -21,25 +20,37 @@ Live Preview (Optional)
 📁 Project Structure
 
 youtube-clone/
+
 ├── index.html
+
 ├── style.css
+
 ├── assets/
+
 │   ├── images/
+
 │   └── icons/
 
 🌐 Technologies Used
+
 HTML5
+
 CSS3 (Flexbox + Grid)
+
 Google Fonts & Icons (optional)
 
 🚀 Getting Started
+
 Clone this repository:
 
 git clone https://github.com/Sivamani-R/YouTube-clone-.git
 cd YouTube-clone-
+
 Open youtubeclone.html in your browser:
 
+
 📚 Learnings
+
 This project helped reinforce the following concepts:
 
 Semantic HTML structure
